@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569833294 source:c:\users\khale\desktop\sayisal_loto\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1569840046 source:c:\users\khale\desktop\c,c++\sayisal_loto\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
